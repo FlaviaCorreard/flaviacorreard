@@ -1,16 +1,17 @@
-### Hi there 👋
+Oi, me chamo Flávia Correard
 
-<!--
-**FlaviaCorreard/flaviacorreard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  Sobre
 
-Here are some ideas to get you started:
+Sou uma desenvolvedora Front-End e atualmente estou estudando na [rocketseat](https://www.rocketseat.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tecnologias
+- `Javascript`
+- Fron-End  `HTML5`, `CSS3`, `Javascript`
+- 💥 Controle de Versão: `Git & GitHub`
+- 🔧 Ferramenta: `VsCode`
+- 💡  Layout :  `Figma`
+
+#### Contat:
+
+- email: flaviacorreard@gmail.com  
+- Linkdin: (www.linkedin.com/in/fláviacorreard/)
