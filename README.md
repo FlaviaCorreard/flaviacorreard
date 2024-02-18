@@ -2,7 +2,7 @@ Oi, me chamo Flávia Correard
 
 ####  Sobre
 
-Aatualmente estou estudando na Ciência de Dados
+Aatualmente estou estudando Ciência de Dados
 
 #### Tecnologias
 - Python
